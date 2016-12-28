@@ -41,6 +41,10 @@ public class Field  extends JPanel
         {
             this.color=kolor;
         }
+        public void jakasFUnkcja()
+        {
+            
+        }
         public void pokoloruj()
         {
             setBackground(color);
